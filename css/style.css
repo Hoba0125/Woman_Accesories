@@ -1,0 +1,1065 @@
+body{
+    
+    
+}
+
+span{
+    color: #F83636;
+    
+}
+img{
+    width: 100%;
+    margin-top: 20px;
+}
+
+/* start style header */
+.header {
+    
+}
+.header .dropdown-menu a:hover{
+    background-color: #F83636;
+}
+.header span{
+    text-decoration: none;
+}
+.header .text i{
+    color: #dee2e6;
+}
+.header span {
+    text-decoration: none;
+    
+}
+.text{
+    text-align: right;
+}
+
+/* end style header */
+                                    /* style style navbar */
+.bg-light {
+    background-color: #f8f9fa!important;
+   
+}
+nav i{
+    color: red;
+    border: 6px solid #F83636;
+    border-radius: 80%;
+    
+}
+
+ 
+
+.navbar-light .navbar-nav  li a {
+    /* color: rgba(0,0,0,.5); */
+    color: #2F4858;
+    padding: 0 20px 0 0;
+    font: normal normal normal 20px/29px Tajawal;
+    text-decoration: none;
+}
+.nav span .active {
+  color: red;
+  border-bottom: 2px solid red;
+  border-width: 50px;
+    
+}
+.nav a span:active {
+    
+}
+focus {
+    outline:unset;
+}
+nav button:hover{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar-nav {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+    margin-left: 236px;
+    padding: 0 0px 0 0px;
+    
+}
+nav .logo{
+    text-align: right;
+}
+nav .logoo p {
+    margin-top: 9;
+    margin-bottom: 1rem;
+   font-weight: 100px;
+    font-size: 20px;
+    
+    color: #2F4858;
+    font: normal normal normal 29px/33px Poor Richard;
+     
+}
+.logo a{
+  text-decoration: none; 
+    
+}   
+
+/* end style navbar */
+
+                            /* start style content */
+
+.text1{
+    margin: 70px 0 70px 0;
+}                                    
+.text1 h4{
+    text-align: center;
+    color: #F83636;
+    opacity: 1;
+}
+.text1 p{
+    text-align: center;
+    margin: 10px 30% 0 30%;
+    color: #2F4858;
+opacity: 1;
+    font-size: 15px;
+    font: normal normal normal  Tajawal;
+}
+
+.text-block {
+  position: absolute;
+  top: 40px;
+  left: 30px;
+  color: white;
+    
+ font: normal normal normal 14px/23px Tajawal;
+ 
+}
+.text-block p span{
+    
+    border-bottom: solid 2px red;
+    color: white;
+    
+}
+
+.content1 p{
+    float: right;
+    text-align: right;
+font: normal normal normal  Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+    
+}
+.content1 p.style{
+      margin-right: -70px;  
+}
+                                    /* end style content */
+
+                                    /* start style over */
+
+
+.over-block{
+  position: absolute;
+  top: 67px;
+  right: 470px;
+  width: auto;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: right;
+  
+ 
+}
+.over-block h4{
+text-align: right;
+font: normal normal medium 40px/56px Tajawal;
+letter-spacing: 0px;
+color: #F83636;
+opacity: 1;
+}
+.over-block p{
+ text-align: right;
+ margin: -7px 0% 4px 30%;
+ color: #2F4858;
+opacity: 1;
+font-size: 15px;
+font: normal normal normal  Tajawal;
+    
+}
+.over-block button{
+    border: solid 1px #F83636; 
+    background-color:#F83636;
+    color: #FFFFFF;
+    font: normal normal normal 24px/33px Tajawal;
+    padding: 7px;
+    width: 30%;
+    opacity: 6;
+}
+.time{
+  position: absolute;
+  bottom: 27px;
+  right: 700px;
+  color: #2F4858;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.time p{
+    margin:0 10px 29px 56px;
+    color:  #2F4858;
+}
+.time span{
+    color: #2F4858;
+    border: solid 1px red;
+    margin:  7px;
+    padding: 7px;
+    
+}
+
+
+                                /* end style over */
+                            
+
+                                
+                            /* start style news */
+.news .new{
+    text-align: center;
+    margin: 10px;
+    
+}
+.news .new h4{
+    color: #F83636;
+    font: normal normal normal 24px/33px Tajawal;
+}
+.news .new p{
+    font: normal normal normal  Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+font-size: 16px;
+}
+.news .new .apper{
+    display: none;
+}
+.news .new .apper1{
+    display: none;
+}
+.news .new .apper2{
+    display: none;
+}
+.news .new button{
+    border: solid 1px red;
+    font: normal normal normal 16px/22px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+}
+.news .new button:hover{
+    background-color: red;
+}
+
+                             /* end style news */
+
+                            
+                             /* start  style header footer */
+.headerFoter{
+     margin-top: 80px;
+     text-align: center;
+    background: #F6F6F6 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.headerFoter img{
+    width: auto;
+    text-align: center;
+    margin: -36px -43px 10px 21px;
+}
+.headerFoter p span{
+    text-align: center;
+    margin: 0px 10px 46px -50px;
+font: normal normal normal 24px/33px  Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+font-size: 18px;
+}
+
+
+                              /* end  style header footer */
+
+
+
+
+
+                             /* start  style  footer */
+
+.foter{
+background: #2F4858 0% 0% no-repeat padding-box;
+opacity: 1;
+    
+}
+
+.foter .section1{
+    text-align: right;
+}
+.foter .section1 h5{
+    margin: 60px 0 20px 0;
+    font: normal normal normal 24px/33px Tajawal;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+    font-size: 25px;
+}
+
+.foter .section1 form{
+    text-align: right;
+    margin: 0 0px 0 0;
+}
+.foter .section1 form button{
+    border: solid 1px red;
+    color:#FFFFFF; 
+} 
+.foter .section1 form button:hover{
+    background-color: red;
+}
+.foter .section1 img{
+    width: auto;
+    margin: 35px 47px 0 -47px;
+}
+.foter .section2 nav{
+    
+}
+.foter .section2 nav ul{
+    list-style: none;
+    color: #FFFFFF; 
+   margin: 48px 0px 0 90px;
+}
+.foter .section2 nav ul li{
+    
+    
+}
+.foter .section2 nav ul li a{
+    color: #FFFFFF;
+   
+    
+    
+    
+}
+.foter .section2 nav ul img{
+    width: auto;
+   margin-left: -132px;
+     
+    
+    
+    
+}
+.foter .section2 nav ul hr{
+        
+      margin: 20px 0px -29px -113px;
+    
+    background-color: white;      
+}
+.foter .logo {
+    margin-bottom: 0;
+    margin: 62px 0 0 0;
+    text-align: center;
+}
+.foter .logo a{
+   font: normal normal normal 29px/33px Poor Richard;
+   color: aliceblue;
+}
+.foter .logo p{
+    font: normal normal normal  Poor Richard;
+   color: aliceblue;
+}
+
+
+
+                             /* end  style  footer */
+.navFoter img{
+    width: auto;
+    margin: 23px 0 0 0px;
+}
+.navFoter p{
+     margin: 23px -0 0 0;
+}
+
+
+
+                                    /* start   style  aboutas */
+
+.navAbout {
+    background: #F6F6F6 0% 0% no-repeat padding-box;
+opacity: 1;
+   
+   
+    text-align: right;
+    margin-top: 10px;
+   
+}                                        
+.navAbout p{
+    margin-right:65px;
+    font: normal normal normal 24px/33px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+}
+.navAbout p span{
+    border-right: solid 1px black ;
+    
+}
+.about .section1{
+    margin-top:150px;
+    text-align: right;
+}
+.about .section1 hr{
+   
+    border: 3px solid red;
+   margin: 0 0px 0 493px;
+
+}
+.about .section1 p{
+    margin-top:30px;
+    text-align: right;
+font: normal normal normal 24px/33px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+}
+.about .section2 img{
+    width: auto;
+}
+
+                                     /* end   style  aboutas */
+.search{
+   background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #D5D5D5;
+border-radius: 5px;
+opacity: 1;
+padding: 10px;
+text-align: right;
+margin-top: 20px;
+}
+                                    
+.search h5{
+    font: normal normal normal 24px/33px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+}
+.search h7{
+font: normal normal normal 17px/34px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+margin-top: 20px;
+}
+.search span{
+    color: #2F4858;
+    border-bottom: solid 5px red;
+}
+.search form input{
+    color: white;
+    background-color: white;
+    border: solid 1px red;
+}
+.search form button i{
+    color: white;
+}
+.search form button{
+    border:solid 1px red;
+    background-color: red;
+    margin: 0 15px 0 0;
+}
+
+#border{
+    
+    margin: 0 162px 0px 0;
+}
+.bord hr {
+    margin: -18px 20px 0 47px;
+    background-color: red;
+    font: 15px;
+    font-weight: bold;
+}
+
+
+
+.search input{
+    
+    margin-top: 1.3rem;
+    margin-left: -1.25rem;
+    background-color:red;
+}
+.form-check-label {
+    margin-bottom: 0;
+    margin: 7px 25px 0 0;
+} 
+
+
+.search i{
+    color: red;
+}
+    /* end   style  aboutas */
+
+
+
+
+/* Style the buttons */
+
+.myDIV{
+    text-align: center;
+}
+.myDIV i{
+    color: white;
+    background-color: red;
+    padding: 5px;
+    
+}
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+/* Style the active class, and buttons on mouse-over */
+
+
+
+
+
+
+
+
+#myBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  font-size: 18px;
+  border: none;
+  outline: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+  padding: 10px;
+  border-radius: 2px;
+}
+
+#myBtn i:hover {
+  background-color: #555;
+}
+
+
+
+
+                               /*start style login */
+
+.login{
+    margin: 50px 50px 50px 50px;
+   background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 10px 20px #00000029;
+border-radius: 10px;
+opacity: 1;
+
+}    
+
+
+
+.login h3{
+    font: normal normal medium 40px/56px Tajawal;
+letter-spacing: 0px;
+color: #F83636;
+opacity: 1;
+margin-bottom: 50px;
+}
+.login label{
+  font: normal normal normal 20px/23px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+}
+.login input{
+    background: #EEEEEE 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+padding: 25px;
+margin: 0 0 16px 19px;
+}
+.login p{
+font: normal normal normal 24px/33px Tajawal;
+letter-spacing: 0px;
+color: #5A5757;
+opacity: 1;
+margin: 0 0 20px 0;
+}
+.login p a{
+    text-decoration: none;
+    color: #5A5757;
+    
+}
+.login button {
+    padding: 7px 25px 7px 25px;
+    color: white;
+    background-color: red;
+    margin: 20px -90px 45px 80px;
+    font: normal normal normal 24px/33px Tajawal;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity:3;
+}
+.login button a{
+    padding: 7px 25px 7px 25px;
+    color: white;
+    text-decoration: none;
+    font: normal normal normal 24px/33px Tajawal;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity:3;
+}
+.login button:hover{
+    color: white;
+}
+.login hr{
+    margin: 10px 15px 37px 15px;
+    border-top: 1px dashed #201A1A;
+    opacity: 1;
+}
+.login img{
+   margin: 20px 10px 20px 10px;
+ 
+}
+#bootom{
+    margin-bottom: 100px;
+}
+.login i{
+    margin: -46px 0 0 0;
+    color: #dc3545;
+}
+
+/*start end login */
+
+
+
+.details{
+    margin-top: 40px;
+    
+}
+.details .section5{
+    text-align: right;
+}
+.details .section5 h4{
+    margin: 30px 0 0 0;
+}
+#1{
+    background-color: red;
+    
+    
+    
+}
+
+#navbar{
+    margin: 70px 0 50px 0;
+    text-align: center;
+    color: white;
+    background: #2F4858 0% 0% no-repeat padding-box;
+border: 1px solid #707070;
+opacity: 1;
+}
+#navbar ul li{
+    display: inline;
+       
+}
+#navbar ul li a{
+    text-decoration: none;
+    color: white;
+     margin: 7px 0 -7px 0;
+    
+}
+#proger{
+   text-align: center;
+font: normal normal normal 22px/35px Tajawal;
+letter-spacing: 0px;
+color: #201A1A;
+opacity: 1;
+
+}
+
+
+
+
+
+
+                                                /* start Style the loginproduct */
+
+
+.loginProduct{
+    margin: 70px 0 70px 0;
+}
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #2F4858;
+}
+
+/* Style the buttons inside the tab   margin-left: 11px;
+  margin-right: 10px;  padding: 14px 16px; text-align: left;*/
+.tab button {
+    background: #2F4858 0% 0% no-repeat padding-box;
+    font: normal normal normal 24px/33px Tajawal;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    float: right;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    margin-left: 11px;
+    margin-right: 21px;  padding: 14px 16px; text-align: left;
+    transition: 0.3s;
+    font-size: 18px;
+}
+.tab button span{
+    border: 1px solid white;
+    border-radius: 70%;
+    padding: 4px;
+    color: #2F4858;
+    background-color: white;
+    margin: 4px;
+}
+
+
+/* Change background color of buttons on hover 
+.tab button :hover {
+  background-color: red;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {  
+    background-color: red;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #D5D5D5;
+opacity: 1;
+ 
+}
+
+.tab i{
+    color: red;
+   
+    padding: 0px 0px 0 5px;
+    font-size: 21px;
+    display: none;
+    
+}
+#London form{
+    margin: 10px 0 0 0;
+}
+#London button{
+    text-align: center;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+   background: #F83636 ;
+border-radius: 5px;
+opacity: 1;
+    font: normal normal normal 14px/23px Tajawal;
+    margin: 0 0  8px 189px;
+
+  
+}
+.section7{
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #D5D5D5;
+border-radius: 5px;
+opacity: 1;
+}
+.section7 h4{
+text-align: right;
+margin: 0 8px 12px 0;
+font: normal normal normal 24px/33px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+} 
+.section7 p{
+margin: -34px 0 12px 9px;;
+font: normal normal normal 24px/33px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+} 
+.section7 button{
+   text-align: center;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+   background: #F83636 ;
+border-radius: 5px;
+opacity: 1;
+    font: normal normal normal 14px/23px Tajawal;
+    margin: 0 0  8px 189px;
+}
+.section8{
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #D5D5D5;
+border-radius: 5px;
+opacity: 1;
+    margin: 50px 0 50px 0;
+    padding: 20px 20px 20px 20px;
+}
+.section8 h4{
+text-align: right;
+margin: 0 8px 12px 0;
+font: normal normal normal 24px/33px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+} 
+.section8 p{
+margin: -34px 0 12px 9px;;
+font: normal normal normal 24px/33px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+} 
+#Tokyo button{
+background: #F83636 0% 0% no-repeat padding-box;
+border-radius: 5px;
+font: normal normal normal 14px/23px Tajawal;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+#Paris h4{
+   text-align: right;
+margin: 40px 8px 40px 0;
+font: normal normal normal 24px/33px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1; 
+}
+#Paris h4 i{
+    color: red;
+}
+#Paris button{
+background: #F83636 0% 0% no-repeat padding-box;
+border-radius: 5px;
+font: normal normal normal 14px/23px Tajawal;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+                             /* end Style the loginproduct */
+
+                            /* start Style the acount */
+.account{
+    margin: 100px;
+}
+.account h3{
+    text-align: center;
+    font: normal normal medium 40px/56px Tajawal;
+letter-spacing: 0px;
+color: #F83636;
+opacity: 1;
+}
+.section10{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 6px #00000029;
+border: 1px solid #D5D5D5;
+opacity: 1;
+     margin: 30px 0 30px 0;
+
+}
+.section10 p{
+    text-align: center;
+    font-size: 30px;
+}
+
+.section10 p a{
+    text-decoration: none;
+    font: normal normal medium 32px/45px Tajawal;
+letter-spacing: 0px;
+color: #201A1A;
+opacity: 1;
+}
+
+                                    /* end Style the acount*/
+
+
+
+
+
+/* start Style the binati */
+
+.binati {
+    margin: 80px 0 80px 0;
+}
+
+.binati h4{
+ text-align: center;
+font: normal normal medium 40px/56px Tajawal;
+letter-spacing: 0px;
+color: #F83636;
+opacity: 1;
+margin: 20px 0 20px 0;
+}
+.binati label{
+  
+font: normal normal normal 14px/24px Tajawal;
+letter-spacing: 0px;
+color: #2F4858;
+opacity: 1;
+}
+.binati button{
+background: #F83636 0% 0% no-repeat padding-box;
+border:1px solid red;
+opacity: 1;
+font: normal normal normal 19px/28px Tajawal;
+letter-spacing: 0px;
+color: #FFFFFF;
+padding: 5px 50px 5px 50px;
+margin: 70px 0 70px 0 ;
+
+
+}
+
+                                /* start Style the binati */
+
+
+  /* end Style the acount*/
+
+
+
+
+
+/* start Style the adress */
+
+.adress {
+    margin: 80px 0 80px 0;
+}
+.adress .section21{
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #CBCBCB;
+border-radius: 10px;
+opacity: 1;
+margin: 50px 0 50px 0;
+padding: 50px 10px 50px 10px;
+}
+.adress .section21 p{
+    text-align: right;
+font: normal normal normal 20px/30px Tajawal;
+letter-spacing: 0px;
+color: #201A1A;
+opacity:1;
+    margin: 0 36px 0 191px;
+    font-size: 21px;
+}
+
+
+    
+
+
+
+.adress h4{
+ text-align: center;
+font: normal normal medium 40px/56px Tajawal;
+letter-spacing: 0px;
+color: #F83636;
+opacity: 1;
+margin: 20px 0 20px 0;
+}
+
+.adress button{
+background: #F83636 0% 0% no-repeat padding-box;
+border:1px solid red;
+opacity: 1;
+font: normal normal normal 13px/23px Tajawal;
+letter-spacing: 0px;
+color: #FFFFFF;
+padding: 10px 20px 10px 20px;
+margin: 10px 0 10px 0;
+}
+
+                                /* end Style the binati */
+
+
+                                  /* start Style the prefect */
+.prefect{
+    margin: 50px 0 50px 0;
+}
+.prefect h4{
+ text-align: center;
+font: normal normal medium 40px/56px Tajawal;
+letter-spacing: 0px;
+color: #F83636;
+opacity: 1;
+margin: 20px 0 20px 0;
+}
+.prefect ul.beker{
+    width: 100%;
+    background: #D5D5D5 0% 0% no-repeat padding-box;
+border: 1px solid #CBCBCB;
+border-radius: 10px;
+opacity: 1;
+}
+.prefect ul li{
+    display: inline;
+    margin: 0 65px 0 65px;
+    padding: 0 0 0 0;
+    
+}
+.prefect ul li a{
+    text-decoration: none;
+    
+}
+
+
+                                  /* end Style the prefect */
+.section40{
+    padding: 10px 0 0 0 ;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #D5D5D5;
+border-radius: 5px;
+opacity: 1;
+    padding: 62px 15px 10px 63px;
+}
+
+.section40 img{
+       margin: -42px 0 0 0;
+}
+.section30{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #F83636;
+border-radius: 5px;
+opacity: 1;
+    text-align: center;
+}
+.section30 span{
+    text-align: left;
+}
+
+.code input{
+    border: none;
+    padding: none;
+    margin: none;
+    width: 10%;
+}
+
